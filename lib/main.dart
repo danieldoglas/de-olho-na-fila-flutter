@@ -178,10 +178,6 @@ class _MyHomePageState extends State<MyHomePage> {
                                           "Fila:",
                                           item["status_fila"],
                                           item["indice_fila"]),
-                                      Center(
-                                        child: Text(
-                                            "Disponibilidade de segundad dose:"),
-                                      ),
                                       Row(
                                         children: [
                                           LabelIconVaccine(
