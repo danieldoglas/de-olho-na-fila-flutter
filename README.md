@@ -1,6 +1,6 @@
 # de_olho_na_fila
 
-A new Flutter project.
+Project to get the basics of flutter applications. Using data from São Paulo city about the COVIC-19 vaccination points.
 
 ## Getting Started
 
